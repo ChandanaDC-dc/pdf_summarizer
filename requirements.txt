@@ -1,0 +1,2 @@
+ pip install streamlit PyPDF2 openai
+ open api key:
