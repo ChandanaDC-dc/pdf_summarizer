@@ -44,7 +44,7 @@ It also supports **multilingual translation** — English, Kannada, Hindi, Frenc
 #### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pdf_summaruzer.git
+git clone https://github.com/ChandanaDC-dc/pdf_summarizer
 cd pdf_summarizer
 ```
 
